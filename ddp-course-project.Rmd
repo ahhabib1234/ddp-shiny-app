@@ -30,12 +30,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 #Ready to reproduce?
-## The application and date is stored in the Github for anybody to reproduce. 
-##The Application link is:
-###https://github.com/ahhabib1234/ddp-shiny-app/blob/master/nasdaq-3d.R
-##Nasdaq Raw data stored in:
-###https://github.com/ahhabib1234/ddp-shiny-app/blob/master/%5EIXIC.csv
+###The application, presentation and data is stored in the Github for anybody to reproduce. 
+###The Application link is:
+####https://github.com/ahhabib1234/ddp-shiny-app/blob/master/nasdaq-3d.R
+###Nasdaq Raw data stored in:
+####https://github.com/ahhabib1234/ddp-shiny-app/blob/master/%5EIXIC.csv
 
-##R Markdown file for this presentation is stored in:
---
+###R Markdown file for this presentation is stored in:
+####https://github.com/ahhabib1234/ddp-shiny-app/blob/master/ddp-course-project.Rmd
 
