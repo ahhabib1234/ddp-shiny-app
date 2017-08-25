@@ -1,0 +1,41 @@
+---
+title: "DDP-Course Project"
+author: "Ahsan Habib"
+date: "8/24/2017"
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# Developing Data Product - Course Project. 
+
+-This presentation is prepared using R Markdown for Developing Data Product course project.
+
+
+#Introduction:
+####In this project we developed a Shiny Application to display Date, Opening Stock Price and Volume information of Nasdaq index in a 3D plot.
+
+####The Data used for this project provided Nasdaq information between January 1, 2009 and August 22, 2017
+
+####You can hover or click on the 3D chart to learn about the specific information of the Stock Price and Volume for the Date specified.
+
+#Application related information
+
+####The Shiny Application developed for this application reads the data from the .csv file and plots it in a 3D plot.
+
+####You can hover over the 3D Plot to review Opening Stock Price and Volume information for any Date. You can also double click on the plot and the axis value will be printed by the application.
+
+
+#Ready to reproduce?
+## The application and date is stored in the Github for anybody to reproduce. 
+##The Application link is:
+###https://github.com/ahhabib1234/ddp-shiny-app/blob/master/nasdaq-3d.R
+##Nasdaq Raw data stored in:
+###https://github.com/ahhabib1234/ddp-shiny-app/blob/master/%5EIXIC.csv
+
+##R Markdown file for this presentation is stored in:
+--
+
